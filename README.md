@@ -16,11 +16,11 @@ create a kathara lab.conf with 5 routers connected together in a ring topology u
 2_lab.conf prompt:
 
 ```
-create a kathara lab.conf with 3 routers connected together in a chain topology using the latest frr image - with each router connected to a pc using the latest alpine linux image
+create a kathara lab.conf with 5 routers connected together in a chain topology using the latest frr image - with each router connected to a pc using the latest alpine linux image
 ```
 
 3_lab.conf prompt:
 
 ```
-create a kathara lab.conf with 3 routers connected together in a mesh topology using the latest frr image - with each router connected to a pc using the latest alpine linux image
+create a kathara lab.conf with 5 routers connected together in a mesh topology using the latest frr image - with each router connected to a pc using the latest alpine linux image
 ```
